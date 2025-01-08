@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Data Engineering & Databricks!**
 
 - 📃 Certifications: 
-    1. Microsoft Azure Administrator (AZ-104)
+    1. Microsoft Azure AI Fundamentals (AI-900)
     2. Microsoft Azure Fundamentals (AZ-900)
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/alex47/">**LinkedIn (preferred)**</a> | **alexcp.hernandez@gmail.com**
