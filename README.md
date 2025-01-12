@@ -8,7 +8,7 @@
     2. Microsoft Azure Fundamentals (AZ-900)
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/itsAlexH/">**LinkedIn**</a> | **alexcp.hernandez@gmail.com**
-- My website: alexelfuerte.com
+- My website: <a href="https://hernandezalex.dev">**hernandezalex.dev**</a>
 
 <br>
 <br>
