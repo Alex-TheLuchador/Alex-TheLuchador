@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Alex</h1>
 <h3 align="center">A Systems Engineer from Houston, Texas 🤠</h3>
 
-- 🌱 I’m currently learning **Data Engineering & Databricks!**
+- 🌱 I’m currently learning **AI/ML & Databricks!**
 
 - 📃 Certifications: 
     1. Microsoft Azure AI Fundamentals (AI-900)
