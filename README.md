@@ -7,7 +7,7 @@
     1. Microsoft Azure AI Fundamentals (AI-900)
     2. Microsoft Azure Fundamentals (AZ-900)
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/alex47/">**LinkedIn (preferred)**</a> | **alexcp.hernandez@gmail.com**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/itsAlexH/">**LinkedIn (preferred)**</a> | **alexcp.hernandez@gmail.com**
 - My website: alexelfuerte.com
 
 <br>
