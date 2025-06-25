@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Alex</h1>
 <h3 align="center">A Systems Engineer from Houston, Texas 🤠</h3>
 
-- 🌱 I’m currently learning **AI/ML & Databricks!**
+- 🌱 I’m currently learning **Data Engineering & Databricks!**
 
 - 📃 Certifications: 
-    1. Microsoft Azure AI Fundamentals (AI-900)
+    1. Microsoft Azure AI Engineer (AI-102)
     2. Microsoft Azure Fundamentals (AZ-900)
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/itsAlexH/">**LinkedIn**</a> | **alexcp.hernandez@gmail.com**
