@@ -1,7 +1,7 @@
 <h1 align="center">Alex Hernandez</h1>
-<h3 align="center">A Systems Engineer</h3>
+<h3 align="center">AI Systems Engineer and Public Speaker</h3>
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/itsAlexH/">**LinkedIn**</a> | **alexcp.hernandez@gmail.com**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/itsAlexH/">**LinkedIn**</a>
 - My website: <a href="https://hernandezalex.dev">**hernandezalex.dev**</a>
 
 <br>
